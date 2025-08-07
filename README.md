@@ -2,7 +2,7 @@
   <img src="headshot.png"  height="150"  style="border-radius:50%;">
   <br>
   <h1 align="center">Dami Dare</h1>
-<p style="text-align: left; max-width: 800px; margin: auto;">
+<p style="text-align: left; max-width: 800px;">
   👋 Hi! I'm Dami, a business-minded software engineer specializing in the architecture of production-grade platforms from 0-to-1, from agentic AI applications to mission-critical infrastructure in zero-trust enterprise environments. 
   <br><br>
   I co-founded <strong>Nightly Traffic</strong>, a startup focused on AI-powered nightlife discovery.
