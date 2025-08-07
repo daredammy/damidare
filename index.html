@@ -81,7 +81,11 @@
                     /* Keeping Playfair for headings */
                 }
 
-                p {
+                p[align="center"] {
+                    text-align: center !important;
+                }
+
+                p:not([align="center"]) {
                     text-align: left !important;
                     margin-left: 0 !important;
                 }
